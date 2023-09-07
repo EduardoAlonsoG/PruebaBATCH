@@ -26,4 +26,5 @@ echo El promedio de los numeros ingresados es: %promedio%
 echo El numero minimo es: %minimo%
 echo El numero maximo es: %maximo%
 
+
 exit
